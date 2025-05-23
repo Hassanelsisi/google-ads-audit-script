@@ -150,7 +150,7 @@ This is where you tell the script where to put the report and what benchmarks to
       * In the script, find this line:
         `var SPREADSHEET_ID = '1OMkbgIwehdLC4Ax3Y8VED0ugY8okbUD8yVI3fliFO-s';`
 
-      * Replace `'1OMkbgIwehdLC4Ax3Y8VED0ugY8okbUD8yVI3fliFO-s'` with *your* actual Spreadsheet ID, keeping the single quotes.
+      * Replace `'YOUR_SPREADSHEET_ID_HERE'` with *your* actual Spreadsheet ID, keeping the single quotes.
 
 2.  **`DEFAULT_DATE_FROM` and `DEFAULT_DATE_TO`**: This sets the date range for your audit.
 
