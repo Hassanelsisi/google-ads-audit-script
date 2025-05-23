@@ -148,7 +148,7 @@ This is where you tell the script where to put the report and what benchmarks to
       * You need to copy the long string of letters and numbers that's between `/d/` and `/edit`. That's your Spreadsheet ID\!
 
       * In the script, find this line:
-        `var SPREADSHEET_ID = '1OMkbgIwehdLC4Ax3Y8VED0ugY8okbUD8yVI3fliFO-s';`
+        `var SPREADSHEET_ID = 'YOUR_SPREADSHEET_ID_HERE';`
 
       * Replace `'YOUR_SPREADSHEET_ID_HERE'` with *your* actual Spreadsheet ID, keeping the single quotes.
 
